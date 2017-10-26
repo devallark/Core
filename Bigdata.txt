@@ -1,0 +1,19 @@
+what is Bigdata?
+----> Bigdata is a term that is used to define a data related problem.It is not a technology,technique,software,hardware.
+      Bigdata is all about the ability of the software to handle (storage, processing/retrieval) the data.
+
+
+IBM definition of Bigdata
+==========================
+1.volume---------size of data
+2.velocity-------speed at which data is changing/generated.
+3.variety--------Types of data
+          a) Structured Data-------- Data in RDBMS tables (Data is in alignment with Schema)
+          b) Semi-structured Data--- XML, JSON.....(Schema to handle the data is present along with data)
+          c) Unstructured Data------ Text, emails, audio, video, logs....(Schema info is not present)
+
+Gartner (agrees with IBM definition of BigData------------If and only If there exit a 4th v)
+      4. veracity/value---- If I process this data, will I get any outcome/business value out of it....It Yes then we will consider it as BigData....ELSE ...it is just Garbage!!!
+
+-------->Hadoop is a java based framework which is used to handle (store/process) BigData
+  
